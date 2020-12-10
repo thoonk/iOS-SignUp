@@ -1,5 +1,5 @@
-# IOS_BoostCourse2
-## Sign Up Project. (iOS_ProjectB)
+# iOS
+## Sign Up Project. 
 
 Using autolayout and UIComponents, develop view and function for sign up procedure. 
 
